@@ -1,0 +1,23 @@
+@charset "utf-8";
+/*页面开始*/
+
+.titleH1{height:40px;line-height:40px;font-size:20px;font-weight:bold;border-bottom:2px solid #ffa804;margin-bottom:5px;}
+.title{padding-left:1px;}
+.title li{width:90px;text-align:center;background-color:#DCDCDC;font-size:17px;float:left;cursor:pointer;padding:6px 0;}
+.title li.cur{background:#f26d0b;color:#ffffff;}
+.titleexp li{float:left;margin-right:10px;}
+.zong{clear:both;width:1214px;height:380px;overflow:hidden;}
+.list{width:3000px;}
+.tabCon{float:left;width:1220px;height:378px;margin:0 auto;}
+#s1,#s2,#s3{height:378px;overflow:hidden;}
+.tabUl{height:378px;width:1214px;overflow:hidden;}
+.tabtr{width:300px;height:378px;float:left;border:1px #A9A9A9 solid;border-right:0;}
+.tabtr img{width:300px;height:198px;}
+.newShopping1{width:300px;height:378px;float:left;}
+.newShopping1 img{width:300px;height:376px;float:left;}
+.xiangqing{margin-top:20px;}
+.xiangqing h4{color:#EC5411;}
+.xiangqing1{background:#EC5411;width:160px;height:40px;line-height:40px;border:0;margin-top:10px;}
+.xiangqing1 p{color:#fff;margin:0 auto;text-align:center;font-size:20px;}
+.xinxi{width:280px;height:170px;margin:0 auto;}
+.xinxi p{font-size:20px;}

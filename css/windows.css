@@ -1,0 +1,51 @@
+*{margin: 0;padding: 0;}
+*{list-style: none;text-decoration: none;}
+.clear{clear: both;}
+body{width: 100%;}
+.nav2{width: 100%;height: 75px;background-color: #0078d7;padding-left: 100px;}
+.nav2 ul li{float: left;display: inline-block; height: 75px;padding: 22px;}
+.nav2 ul li a{color: #fff;font-size: 16px;text-decoration: none;}
+.nav2 ul li:hover{background-color: #0f90f6;}
+.buy{float: right;height: 40px;width: 180px;background-color: #fff;text-align: center;
+	margin-right: 100px;margin-top: 18px;border:none;}
+
+.tabimg1{width: 100%;height: 0;padding-bottom: 40%; background:url(../images/long1.jpg) center no-repeat; 
+	background-size: 100% 100%;overflow:hidden;}
+.tab1{width: 32%;height: 290px;margin-top: 10%;margin-left: 5%;}
+.tab1 h2{font-size: 36px;}
+.tab1 p{font-size: 19px;margin-top: 14px;}
+.tab1 input{height: 40px;width: 140px;background-color:#0078d7;border:none;color: #fff;
+margin-top: 14px;margin-bottom: 20px;}
+.tab1 a{font-size: 19px;}
+
+.tabimg2{width: 100%;height: 310px;overflow: hidden;}
+.tabimg2 img{width: 30%;margin-left: 5%;float: left;}
+.tab2{float: left;width: 580px;margin-top: 50px;}
+.tab2 h2{font-size: 36px;}
+.tab2 p{font-size: 19px;margin-top: 14px;}
+.tabimg2 input{float: left;height: 40px;width: 140px;background-color:#0078d7;border:none;color: #fff;
+margin-top: 115px;margin-left: 20px;}
+
+#container1{background-color: #ccc;overflow: hidden;height:780px;width:1798px;}
+.contain{width:1798px;height:780;margin:0 auto;}
+.lunbo{width:1798px;height: 480px;position:relative;overflow: hidden;
+	margin: 0 auto;}
+.content{width: 7192px;position: absolute;top: 0;left: 0;}
+.content ul li{float: left;position: relative;width:1798px;}
+.content ul li img{width:1798px;}
+.content ul li div{position: absolute;left: 65%;top: 35%;width: 20%;color: #fff;}
+.sp{color: #000;}
+.pre{width: 45px;height: 45px;line-height: 45px;text-align: center;
+	background-image: url(../images/l.png);background-repeat: no-repeat;
+	cursor: pointer;position: absolute;top:250px;left: 10px;z-index: 10;}
+.next{width: 45px;height: 45px;line-height: 45px;text-align: center;
+	background-image: url(../images/r.png);background-repeat: no-repeat;cursor: pointer;
+	position: absolute;top:250px;right: 10px;z-index: 10;}
+
+.pointer{margin: 0 auto;width:100%;height:300px;}
+.pointer ul li{float: left;height:300px;}
+.pointer ul li img{width:449px;height:300px;}
+
+.dibu{width:100%;height:60px;background-color:#333333;text-align:center;}
+.dibu ul{}
+.dibu ul li{font-size:12px;color:#fff;display:inline;line-height:25px;text-align:center}
